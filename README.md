@@ -31,6 +31,12 @@ Summary of course:
         exports.User = User;
     5.4. Global function:
         global.User = User;
+6. Module - methods (module variable)
+    6.1. module inside: id, exports, parent, filename, loaded, children, path
+    6.2. module.exports = Obj;
+    6.3. exports.Obj = Obj;
+    6.4. Caching required modules
+    6.5. Require module - module search order (by file name, folder name, node_modules folder in current and in parents, NODE_PATH)
 
 
 

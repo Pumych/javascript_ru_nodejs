@@ -11,7 +11,6 @@ function run(){
     vasya.hello(petya);
 
     log(db.getPhrase("Run successful"));
-
 }
 
 if(module.parent){
