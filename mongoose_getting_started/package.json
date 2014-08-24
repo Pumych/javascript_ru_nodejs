@@ -1,0 +1,15 @@
+{
+    "name": "mongoose_getting_started",
+    "version": "1.0.0",
+    "description": "mongoose Getting Started",
+    "main": "app.js",
+    "dependencies": {
+        "mongoose" : "~3.8.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Vitaly",
+    "license": "ISC"
+}
